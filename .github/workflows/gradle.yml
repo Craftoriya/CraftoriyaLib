@@ -48,5 +48,4 @@ jobs:
         prerelease: false 
         title: "Kotlin stdlib build"
         files: |
-          LICENSE.txt
-          *.jar
+          build/libs/*.jar
