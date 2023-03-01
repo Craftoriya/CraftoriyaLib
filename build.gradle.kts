@@ -43,7 +43,7 @@ publishing {
 
 bukkit {
     load = net.minecrell.pluginyml.bukkit.BukkitPluginDescription.PluginLoadOrder.STARTUP
-    main = "me.kotlin.Main"
+    main = "com.craftoriya.lib.CraftoriyaLib"
     apiVersion = "1.19"
     authors = listOf("NitkaNikita")
     name = "Event7"
