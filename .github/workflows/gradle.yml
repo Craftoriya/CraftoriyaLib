@@ -52,6 +52,6 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "latest"
         prerelease: false 
-        title: "Kotlin stdlib build"
+        title: "CraftoriyaLib build"
         files: |
           build/libs/*.jar

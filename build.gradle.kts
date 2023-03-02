@@ -46,8 +46,5 @@ bukkit {
     main = "com.craftoriya.lib.CraftoriyaLib"
     apiVersion = "1.19"
     authors = listOf("NitkaNikita")
-    name = "Event7"
-    commands {
-        register("dialog")
-    }
+    name = "CraftoriyaLib"
 }
