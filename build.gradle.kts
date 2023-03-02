@@ -17,6 +17,7 @@ repositories {
 
 dependencies {
     shadow(kotlin("stdlib"))
+    implementation(kotlin("stdlib"))
     paperDevBundle("1.19.3-R0.1-SNAPSHOT")
 }
 
